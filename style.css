@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+.b {
+    width: 600px;
+    height: 300px;
+}
+.b{
+    border:6px solid rgb(43, 220, 226);
+}
+body{
+    background-color: rgb(255, 72, 0);
+    color: white;
+}
+h2 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+.ghy{
+    border: 1px solid blue;
+}
+
+td{
+    border: 1px solid blue;
+}
+
+footer{
+    background: black;
+}
+.yu{
+    text-align: center;
+}
